@@ -1,3 +1,5 @@
+package clases;
+
 
 
 import java.sql.Connection;
@@ -24,17 +26,7 @@ public class ej1 {
 		public void setGenero(String genero) {
 			this.genero = genero;
 		}
-		public String getClave() {
-			return clave;
-		}
-		public void setClave(String clave) {
-			this.clave = clave;
-		}
-		public int getTelefono() {
-			return telefono;
-		}
-		public void setTelefono(int telefono) {
-			this.telefono = telefono;
+		
 		}
 		
 }
