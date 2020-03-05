@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
-
+//Hola
 public class ej1 {
 		protected String idUsuario;
 		protected String genero;
