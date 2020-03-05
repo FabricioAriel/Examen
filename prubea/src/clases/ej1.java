@@ -17,26 +17,8 @@ public class ej1 {
 		public String getIdUsuario() {
 			return idUsuario;
 		}
-		public void setIdUsuario(String idUsuario) {
-			this.idUsuario = idUsuario;
-		}
-		public String getGenero() {
-			return genero;
-		}
-		public void setGenero(String genero) {
-			this.genero = genero;
-		}
 		
-		public void setGenero(String genero) {
-			this.genero = genero;
-		}
-		public void setGenero(String genero) {
-			this.genero = genero;
-		}
-	public void setGenero(String genero) {
-		this.genero = genero;
-	}	public void setGenero(String genero) {
-		this.genero = genero;
+		
 	}
 		}
 		
