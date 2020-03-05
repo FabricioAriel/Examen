@@ -33,6 +33,11 @@ public class ej1 {
 		public void setGenero(String genero) {
 			this.genero = genero;
 		}
+	public void setGenero(String genero) {
+		this.genero = genero;
+	}	public void setGenero(String genero) {
+		this.genero = genero;
+	}
 		}
 		
 }
